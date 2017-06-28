@@ -1,5 +1,9 @@
 # Dockerfile based on the latest CentOS 7 image - non-privileged user entry
+<<<<<<< HEAD
 # this will merge from master.
+=======
+# this will be merged from master
+>>>>>>> master
 FROM java
 
 ENV MAVEN_VERSION 3.3.9
